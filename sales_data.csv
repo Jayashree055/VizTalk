@@ -1,0 +1,17 @@
+Region,Product,Month,Revenue,Units_Sold,Profit
+North,Laptop,Jan,12000,40,3000
+North,Phone,Jan,9000,60,2500
+South,Laptop,Jan,10000,35,2200
+South,Phone,Jan,8500,55,2100
+East,Laptop,Jan,11000,38,2600
+East,Phone,Jan,9200,65,2400
+West,Laptop,Jan,13000,42,3200
+West,Phone,Jan,9700,70,2600
+North,Laptop,Feb,14000,45,3500
+North,Phone,Feb,9500,65,2700
+South,Laptop,Feb,11500,40,2600
+South,Phone,Feb,8800,60,2300
+East,Laptop,Feb,12000,42,2900
+East,Phone,Feb,9600,70,2600
+West,Laptop,Feb,15000,50,3800
+West,Phone,Feb,10000,75,2800

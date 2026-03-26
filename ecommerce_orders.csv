@@ -1,0 +1,21 @@
+order_id,order_date,customer_name,city,region,category,product,quantity,price,revenue
+2001,2024-01-02,Aarav Sharma,Delhi,North,Electronics,Smartphone,2,25000,50000
+2002,2024-01-04,Meera Patel,Ahmedabad,West,Fashion,Shoes,3,3000,9000
+2003,2024-01-06,Rohan Singh,Lucknow,North,Electronics,Laptop,1,65000,65000
+2004,2024-01-08,Priya Nair,Kochi,South,Home,Blender,2,2500,5000
+2005,2024-01-10,Arjun Reddy,Hyderabad,South,Electronics,Headphones,4,2000,8000
+2006,2024-01-12,Neha Gupta,Jaipur,West,Fashion,Jacket,2,4500,9000
+2007,2024-01-14,Karan Verma,Delhi,North,Home,Microwave,1,12000,12000
+2008,2024-01-16,Isha Shah,Mumbai,West,Electronics,Tablet,2,18000,36000
+2009,2024-01-18,Vikram Joshi,Pune,West,Electronics,Smartwatch,3,9000,27000
+2010,2024-01-20,Ananya Das,Kolkata,East,Fashion,Handbag,2,3500,7000
+2011,2024-01-22,Rahul Banerjee,Kolkata,East,Electronics,Camera,1,42000,42000
+2012,2024-01-24,Sneha Iyer,Chennai,South,Home,Air Fryer,2,8000,16000
+2013,2024-01-26,Amit Kapoor,Delhi,North,Fashion,T-shirt,5,1200,6000
+2014,2024-01-28,Pooja Mehta,Mumbai,West,Electronics,Laptop,1,72000,72000
+2015,2024-02-01,Ravi Kumar,Hyderabad,South,Electronics,Phone,2,30000,60000
+2016,2024-02-03,Simran Kaur,Chandigarh,North,Fashion,Sneakers,3,3500,10500
+2017,2024-02-05,Aditya Mishra,Patna,East,Home,Vacuum Cleaner,1,9000,9000
+2018,2024-02-07,Kavya Nair,Kochi,South,Fashion,Dress,2,4000,8000
+2019,2024-02-10,Manish Yadav,Lucknow,North,Electronics,Monitor,2,15000,30000
+2020,2024-02-12,Nisha Shah,Ahmedabad,West,Home,Coffee Maker,2,4500,9000
