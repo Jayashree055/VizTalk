@@ -344,16 +344,20 @@ Show conversions by target audience
 # Future Improvements
 
 * Multi-chart dashboards
-* CSV upload for custom datasets
-* Follow-up conversational queries
 * Chart filtering and drilldowns
 * Dashboard export
 
 ---
 
-# Author
+## 👩‍💻 Team
+- T Jayashree Indrani
+- Anisha Paturi
+- Sravani Janak
 
-Ani
-Engineering Student – KMIT Hyderabad
-
+**My Contributions:**
+- Built the frontend using Streamlit
+- Integrated DeepSeek for natural language to SQL conversion
+- Developed voice input using Whisper
+- Implemented dynamic dashboard generation
+- Added chat history and file upload features 
 ---
